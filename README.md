@@ -20,3 +20,10 @@ Once the model was trained on the training set, predictions were made on the tes
 A critical part of this task was visualizing the trained Decision Tree to understand the decision-making process. The plot_tree function was used to create a color-coded diagram showing decision splits at each node. This visualization clearly shows the sequence of decisions, such as the first split at petal length ≤ 2.45 cm, which perfectly separates the Setosa class. Additionally, a textual representation of the tree was generated using export_text, which lists all decision rules, Gini impurity values, number of samples at each node, and the predicted class. Feature importance was also analyzed, revealing that petal length and petal width are the most influential features, while sepal dimensions contribute less to the classification.
 
 In conclusion, this task demonstrates the complete workflow of a Decision Tree model: data exploration, preprocessing, model building, evaluation, and visualization. The deliverable is a fully functional Jupyter or Google Colab notebook containing all code cells, visualizations, performance metrics, and a concise analysis of results. This notebook provides a clear and interpretable demonstration of how Decision Trees classify data and can serve as a foundational reference for future machine learning projects.
+
+# OUTPUT 
+<img width="547" height="282" alt="Image" src="https://github.com/user-attachments/assets/c5e1977d-1178-4833-92b8-94936cef2b98" />
+<img width="1112" height="986" alt="Image" src="https://github.com/user-attachments/assets/99b98386-696b-4fdf-b124-7a765a57c9a9" />
+<img width="613" height="228" alt="Image" src="https://github.com/user-attachments/assets/4b9b89d8-afd6-463b-bc1b-c48a1a814a3f" />
+<img width="950" height="636" alt="Image" src="https://github.com/user-attachments/assets/ea83e242-8d00-4d21-a06f-2eed7acefbf3" />
+
